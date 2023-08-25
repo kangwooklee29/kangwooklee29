@@ -1,4 +1,11 @@
-### Hi there 👋
+### Kangwook Lee
+
+- **Blog**: [https://kangwooklee29.github.io/blog/](https://kangwooklee29.github.io/blog/)
+
+#### Current Projects
+
+- [Bear Algorithm](https://github.com/Bear-Algorithm-Team/bearalgorithm): This is a repository for algorithm study. This repository uses a custom command written in bash script, that sends a command to the Trello API to create a card, and has a CI/CD pipeline for updating the Trello board to the latest PR status.
+
 
 <!--
 **kangwooklee29/kangwooklee29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
