@@ -6,6 +6,7 @@
 
 - [Bear Algorithm](https://github.com/Bear-Algorithm-Team/bearalgorithm): This is a repository for algorithm study. This repository uses a custom command written in bash script, that sends a command to the Trello API to create a card, and has a CI/CD pipeline for updating the Trello board to the latest PR status.
 
+- [Idea Log](https://github.com/kangwooklee29/idea-log): A simple memo app implemented with Docker, Python Flask, sqlite, and vanilla JS. It supports login through Google authentication. You can visit [this website](https://idealog.store) to check.
 
 <!--
 **kangwooklee29/kangwooklee29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
