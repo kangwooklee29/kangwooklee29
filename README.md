@@ -4,11 +4,9 @@
 
 #### Current Projects
 
-- [Bear Algorithm](https://github.com/Bear-Algorithm-Team/bearalgorithm): This is a repository for algorithm study. This repository uses a custom command written in bash script, that sends a command to the Trello API to create a card, and has a CI/CD pipeline for updating the Trello board to the latest PR status.
+- [Bookmark Tab](https://github.com/kangwooklee29/bookmark-tab): A very useful bookmark manager which replaces the browser's new tab page. This app is deployed to the Chrome Web Store. You can visit [this link](https://chromewebstore.google.com/detail/bookmark-tab/lhjdhaialhgbiopcdghljjiibpebhmhc) to install it.
 
 - [Idea Log](https://github.com/kangwooklee29/idea-log): A simple memo app implemented with Google App Engine, Python Flask, Google Cloud Firestore, and vanilla JS. It supports login through Google authentication. You can visit [this website](https://idealog.store) to check.
-
-- [Bookmark Tab](https://github.com/kangwooklee29/bookmark-tab): A very useful bookmark manager which replaces the browser's new tab page. This app is deployed to the Chrome Web Store. You can visit [this link](https://chromewebstore.google.com/detail/bookmark-tab/lhjdhaialhgbiopcdghljjiibpebhmhc) to install it.
 
 <!--
 **kangwooklee29/kangwooklee29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
